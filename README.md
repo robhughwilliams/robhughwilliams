@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @robhughwilliams
-- 👀 I’m interested in learning more about coding, UI design, and great UX 
-- 🌱 I’m currently learning the basics of Python and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me robwilliams1994@btinternet.com
+- 👀 I’m interested in learning more about coding, UI design, and great UX
+- 🌱 I’m currently learning the basics of Python and SQL whilst also undertaking some vibe coding
+- 🌐 I've just launched my first website with the help of lovable, netlify and GPT-o3 
+- 📫 You can reach me at robwilliams1994@btinternet.com
 - ⚡ Fun fact: I'm loving angels instead 😇
 
 <!---
